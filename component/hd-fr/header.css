@@ -1,0 +1,28 @@
+body{
+    background: #EA3546;
+    font-family: "Glass Antiqua";
+    margin: 0;
+    box-sizing: border-box;
+    -webkit-font-smoothing: inherit;
+}
+.content-header-menu{
+    background-color: darkred;
+    padding: 10px;
+}
+.content-header-menu-list{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+}
+.content-header-menu-list > li{
+    text-decoration: none;
+}
+.content-header-logo-z > img,
+.content-header-logo-m > img {
+    width: 97%;
+}
+.content-header-logos  {
+    padding: 29px;
+}
+
+
